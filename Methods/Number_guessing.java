@@ -2,7 +2,7 @@ package com.company.Methods;
 import java.util.Scanner;
 import java.util.Random;
 
-public class Rock_paper_scissor_using_methods {
+public class Number_guessing {
     static class Number_GAME{
         private int user_num;
         private int comp_num;
